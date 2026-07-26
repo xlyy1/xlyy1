@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%2C%20I%27m%20xlyy1&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=45" alt="Header"/>
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hi%2C%20I%27m%20xlyy1&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=40" alt="Header"/>
 
 <p align="center">
-  <strong>AI Agent · LLM Applications · Cybersecurity</strong>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=500&height=40&lines=AI+Agent+%C2%B7+LLM+Applications+%C2%B7+Cybersecurity;%E5%85%B3%E6%B3%A8+LLM+%E5%AE%89%E5%85%A8%E5%BA%94%E7%94%A8%E3%80%81RAG;%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93+%C3%97+%E5%A4%A7%E6%A8%A1%E5%9E%8B+%C3%97+%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8" alt="Typing SVG"/>
+  </a>
 </p>
 
 <p align="center">
