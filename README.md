@@ -1,117 +1,66 @@
-Hi, I'm xlyy1 👋
+<h1 align="center">Hi 👋 I'm xlyy1</h1>
 
-AI Agent Builder · Data Analysis · Full-Stack Development
+<p align="center">
+  <samp>
+    AI Agent Developer · LLM Applications · Data Engineering
+  </samp>
+</p>
 
-把大模型能力转化为真正可用的数据产品。
-Turning LLM capabilities into practical data products.
+<p align="center">
+  <a href="https://github.com/xlyy1">
+    <img src="https://img.shields.io/badge/GitHub-xlyy1-181717?style=flat-square&logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:18617635879@163.com">
+    <img src="https://img.shields.io/badge/Email-18617635879@163.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email">
+  </a>
+</p>
 
+---
 
+### 🧑‍💻 About
 
+安徽理工大学信息安全专业大三学生，专注于 AI Agent 与大模型应用开发。
 
+有两段完整的多智能体项目实战经验和一段 Agent 开发实习，熟悉 RAG 优化、多智能体协同、后端工程化落地。
 
+---
 
-👨‍💻 About Me
+### 🛠️ Tech Stack
 
-🤖 专注于 AI Agent、LLM 应用与智能数据分析
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/ChromaDB-FFFFFF?style=flat-square&logo=chroma&logoColor=black" alt="ChromaDB">
+  <img src="https://img.shields.io/badge/ECharts-AA344A?style=flat-square&logo=apacheecharts&logoColor=white" alt="ECharts">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
 
-📊 正在探索从自然语言提问到数据查询、分析、可视化和经营建议的完整链路
+---
 
-🧠 关注 Agent 工作流、Text-to-SQL、数据诊断与多轮对话
+### 🚀 Projects
 
-🌐 使用前后端技术构建可落地、可交互、可部署的 AI 产品
+| Project | Description | Tech |
+|---------|-------------|------|
+| **Sec-LLM 灵犀网卫**<br>多智能体网络安全运营平台 | 基于 LangGraph 的多 Agent 协同系统，双模型引擎 + 黑板架构。<br>混合检索 Top-5 命中率 93%，攻击识别准确率 89%。 | LangGraph · FastAPI · ChromaDB |
+| **对话式数据分析 Agent**<br>自然语言驱动的数据分析平台 | NL2SQL 全链路自动化，端到端响应 15s 内。<br>支持多数据源接入，智能可视化与报告一键导出。 | LangGraph · ECharts · MySQL |
+| **跨平台内容生成器**<br>多平台 AI 内容生成工具 | 一键生成小红书、公众号、抖音等多平台内容。<br>支持图片生成与内容审核。 | Python · LLM · API |
 
-🌱 持续学习模型应用工程、数据工程与系统设计
+---
 
-> I enjoy building AI systems that do more than generate text — systems that can understand questions, work with real data, and produce actionable results.
+### 📊 GitHub Stats
 
-🎯 Current Focus
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=xlyy1&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlyy1&layout=compact&hide_border=true&theme=graywhite"/>
+</p>
 
-Natural Language
-       ↓
-Intent Recognition
-       ↓
-SQL Generation & Execution
-       ↓
-Data Analysis & Diagnosis
-       ↓
-Visualization & Recommendations
+---
 
-
-目前重点关注：
-
-对话式数据分析 Agent
-
-自然语言到 SQL 的可靠转换
-
-多数据源接入与统一分析
-
-自动图表生成与报告导出
-
-云端模型与本地模型的统一适配
-
-Agent 执行过程的准确性、安全性与可解释性
-
-🛠️ Tech Stack
-
-Languages & Backend
-
-Frontend & Visualization
-
-Databases & Data
-
-LLM & Tools
-
-🚀 Featured Project
-
-Conversational Data Analysis Agent
-
-面向中小工厂和电商商家的 AI 数据分析助手。用户可以直接使用自然语言提问，系统自动完成数据查询、指标计算、异常诊断、图表生成与经营建议输出。
-
-
-
-
-
-
-Key Features
-
-FeatureDescription💬 Natural-language analysis使用聊天方式提出数据问题，Agent 自动理解分析意图🗄️ Multiple data sources支持 Excel、CSV、MySQL、PostgreSQL 和 SQLite🧮 Intelligent calculation自动进行跨列聚合、比例、增长率等派生指标计算🔍 Diagnosis & suggestions对亏损、下降与异常数据进行维度拆解并生成建议📈 Data visualization根据分析结果自动选择合适的 ECharts 图表📝 Report generation一键导出结构化 Markdown 分析报告🧠 Multi-turn conversation保留上下文，并在问题模糊时主动澄清
-
-Architecture
-
-User Question
-     ↓
-Intent Recognition
-     ↓
-SQL Generation
-     ↓
-Data Execution
-     ↓
-Result Analysis
-     ↓
-Diagnosis → Visualization → Business Suggestions
-
-
-📚 What I'm Learning
-
-更稳定的 Agent 状态管理与工作流编排
-
-高准确率 Text-to-SQL 与查询结果校验
-
-RAG、工具调用与结构化输出
-
-数据分析场景中的模型评估方法
-
-AI 应用的工程化、部署与可观测性
-
-🤝 Connect With Me
-
-GitHub Profile: github.com/xlyy1
-
-Explore My Projects: Repositories
-
-Project Feedback: Open an Issue
-
-
-Thanks for visiting! ⭐
-
-欢迎查看我的项目、提交 Issue，或一起交流 AI Agent 与数据分析应用。
+<p align="center">
+  <samp>
+    「Stay hungry, stay foolish.」
+  </samp>
+</p>
