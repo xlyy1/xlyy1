@@ -1,279 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,45:6366F1,100:06B6D4&height=220&section=header&text=xlyy1&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Agent%20%7C%20LLM%20Applications%20%7C%20AI%20Security&descAlignY=59&descSize=18" width="100%" alt="Header" />
+# xlyy1
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=AI+Agent+%26+LLM+Application+Developer;LangGraph+%2F+FastAPI+%2F+Vue+Builder;Exploring+RAG+%26+AI+Security;Turning+LLMs+into+real-world+applications" alt="Typing SVG" />
-</a>
+**AI Agent · 数据分析 · AI 安全**
 
-<p>
-  <a href="https://github.com/xlyy1">
-    <img src="https://img.shields.io/github/followers/xlyy1?label=Followers&style=flat-square&logo=github" alt="Followers" />
-  </a>
-  <a href="https://github.com/xlyy1?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-AI%20Agents-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="Projects" />
-  </a>
-  <a href="https://github.com/xlyy1/data-analysis-agent">
-    <img src="https://img.shields.io/badge/Featured-DataAgent-6366F1?style=flat-square&logo=python&logoColor=white" alt="Featured Project" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=xlyy1&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile Views" />
-</p>
+把自然语言需求做成能调用工具、处理数据、交付结果的应用。
 
 </div>
 
 ## 👋 关于我
 
-你好，我是 **xlyy1**。
+我关注 AI Agent、LLM 应用工程、RAG 和 AI 安全。做项目时，我更在意完整的使用流程：从输入、工具调用和状态管理，到可检查的结果与清晰的文档。
 
-目前主要关注 **AI Agent、LLM 应用工程、RAG 与 AI Security**，喜欢把大模型从一个简单的聊天接口，逐渐做成能够理解任务、调用工具、处理数据并完成实际工作的 Agent 系统。
+目前的实践以 Python 和 TypeScript 为主，常用 LangGraph、FastAPI 和 Vue 3 构建前后端应用。
 
-我正在探索：
+## 🚀 项目
 
-- 🤖 **AI Agent Engineering**：任务规划、状态管理、Tool Calling 与 Agent Workflow
-- 🧠 **LLM Applications**：DeepSeek、Ollama 与 OpenAI-compatible API
-- 📚 **RAG**：知识检索、上下文构建与垂直领域智能应用
-- 📊 **Data Agent**：自然语言 → SQL → 数据分析 → 可视化 → 报告
-- 🛡️ **AI × Security**：LLM 安全应用、内容安全与智能安全分析
-- 🌐 **Full-stack AI**：FastAPI + Vue 构建真正可运行、可交互的 AI 产品
+### [DataAgent · 对话式数据分析师](https://github.com/xlyy1/data-analysis-agent)
 
-> **Build agents that don't just talk — they get things done.**
+面向中小工厂和电商商家的数据分析助手。用户用自然语言提问，Agent 生成并执行 SQL，再给出分析、图表和 Markdown 报告。
 
----
+- **数据接入**：Excel / CSV、MySQL、PostgreSQL、SQLite
+- **分析能力**：跨列聚合、派生指标、异常诊断和多轮追问
+- **技术栈**：LangGraph · FastAPI · Vue 3 · ECharts
 
-## 🚀 代表项目
+| 项目 | 做了什么 |
+| --- | --- |
+| [Tu Travel](https://github.com/xlyy1/tu-travel) | 旅行对话 Agent，接入天气、景点和美食工具，提供 CLI、SSE 与 WebSocket 接口。 |
+| [Cross-platform Content Generator](https://github.com/xlyy1/cross-platform-content-generator) | 根据产品素材生成适配小红书、公众号、抖音和微博的内容包及自检清单。 |
+| [Sec-LLM-3.0（Fork）](https://github.com/xlyy1/Sec-LLM-3.0) | 学习和探索 LLM 与智能体在网络安全场景中的应用。 |
 
-| 项目 | 技术栈 | 简介 |
-| --- | --- | --- |
-| [**Data Analysis Agent**](https://github.com/xlyy1/data-analysis-agent) | LangGraph · FastAPI · Vue 3 · ECharts · SQL | 对话式 AI 数据分析 Agent，通过自然语言自动完成 SQL 生成、数据查询、经营分析、异常诊断和可视化。 |
-| [**Sec-LLM-3.0**](https://github.com/xlyy1/Sec-LLM-3.0) | Python · LLM · Agent · Security | 探索 LLM 与智能体在网络安全场景中的结合，关注自动化安全分析与 AI Security。 |
-| [**Tu Travel**](https://github.com/xlyy1/tu-travel) | Python · LLM · Tool Calling · SSE · WebSocket | 面向旅行场景的智能 Agent，整合天气、景点、美食等外部工具与多轮对话能力。 |
-| [**Cross-platform Content Generator**](https://github.com/xlyy1/cross-platform-content-generator) | Python · LLM · Prompt Engineering | 根据输入素材自动生成适配不同内容平台的文案，探索 AI 内容生产工作流。 |
+## 🤝 开源贡献
 
-<div align="center">
+参与 [Reasonix](https://github.com/esengine/DeepSeek-Reasonix) 的交互与体验改进：
 
-<a href="https://github.com/xlyy1/data-analysis-agent">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=xlyy1&repo=data-analysis-agent&hide_border=true&theme=transparent" alt="Data Analysis Agent" />
-</a>
+- [#12871](https://github.com/esengine/DeepSeek-Reasonix/pull/12871)：模型设置变化后刷新 Studio 的上下文容量显示。
+- [#12678](https://github.com/esengine/DeepSeek-Reasonix/pull/12678)：完善计划模式下浏览器工具不可用时的提示与替代入口。
 
-<a href="https://github.com/xlyy1/Sec-LLM-3.0">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=xlyy1&repo=Sec-LLM-3.0&hide_border=true&theme=transparent" alt="Sec LLM" />
-</a>
+## 🧰 常用技术
 
-<a href="https://github.com/xlyy1/tu-travel">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=xlyy1&repo=tu-travel&hide_border=true&theme=transparent" alt="Tu Travel" />
-</a>
+- **语言**：Python · TypeScript · JavaScript · SQL
+- **AI / 后端**：LangGraph · FastAPI · RAG · Tool Calling
+- **前端 / 数据**：Vue 3 · ECharts · MySQL · PostgreSQL · SQLite
+- **工具**：Git · Docker · Linux
 
-<a href="https://github.com/xlyy1/cross-platform-content-generator">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=xlyy1&repo=cross-platform-content-generator&hide_border=true&theme=transparent" alt="Content Generator" />
-</a>
+## 📫 联系
 
-</div>
-
----
-
-## ✨ 当前重点：Data Analysis Agent
-
-**Data Analysis Agent** 是我目前重点构建的项目。
-
-目标是让用户不需要写 SQL，也能够直接通过自然语言分析自己的业务数据：
-
-```text
-用户问题
-   ↓
-意图识别
-   ↓
-SQL 生成
-   ↓
-数据执行
-   ↓
-结果分析
-   ↓
-异常诊断
-   ↓
-数据可视化
-   ↓
-分析报告
-```
-
-目前支持：
-
-- 📁 Excel / CSV 文件上传
-- 🗄️ MySQL / PostgreSQL / SQLite 数据源
-- 💬 自然语言生成 SQL
-- 🧠 LangGraph Agent Workflow
-- 🧮 派生指标与跨列聚合
-- 🔍 异常诊断与原因分析
-- 📈 ECharts 自动可视化
-- 📝 Markdown 分析报告
-- 🔄 多轮上下文对话
-- 🕒 自然语言时间理解
-- 🤖 DeepSeek / Ollama / OpenAI-compatible LLM
-
-<p>
-  <a href="https://github.com/xlyy1/data-analysis-agent">
-    <img src="https://img.shields.io/github/stars/xlyy1/data-analysis-agent?style=flat-square&logo=github" alt="Stars" />
-  </a>
-  <a href="https://github.com/xlyy1/data-analysis-agent">
-    <img src="https://img.shields.io/github/last-commit/xlyy1/data-analysis-agent?style=flat-square&logo=github" alt="Last Commit" />
-  </a>
-  <a href="https://github.com/xlyy1/data-analysis-agent">
-    <img src="https://img.shields.io/github/languages/top/xlyy1/data-analysis-agent?style=flat-square" alt="Top Language" />
-  </a>
-  <a href="https://github.com/xlyy1/data-analysis-agent">
-    <img src="https://img.shields.io/github/repo-size/xlyy1/data-analysis-agent?style=flat-square" alt="Repo Size" />
-  </a>
-</p>
-
----
-
-## 🧰 技术栈
-
-### 🤖 AI / Agent
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch" alt="AI Stack" />
-</p>
-
-`LangGraph` · `LLM` · `RAG` · `Tool Calling` · `Prompt Engineering` · `Multi-Agent`
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css" alt="Languages" />
-</p>
-
-### 🌐 Backend & Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,vue,vite,nodejs" alt="Frameworks" />
-</p>
-
-### 🗄️ Data & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="Databases" />
-</p>
-
-### ⚙️ Tools & Environment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" alt="Tools" />
-</p>
-
----
-
-## 🧠 What I'm Exploring
-
-```python
-class Xlyy1:
-    def __init__(self):
-        self.interests = [
-            "AI Agent",
-            "LLM Applications",
-            "RAG",
-            "AI Security",
-            "Data Intelligence"
-        ]
-
-        self.stack = {
-            "language": ["Python", "TypeScript"],
-            "backend": ["FastAPI"],
-            "agent": ["LangGraph"],
-            "frontend": ["Vue 3"],
-            "database": ["MySQL", "PostgreSQL", "SQLite"]
-        }
-
-    def build(self):
-        return "LLM → Agent → Real-world Application"
-```
-
----
-
-## 📊 GitHub 数据
-
-<div align="center">
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=xlyy1&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
-
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=xlyy1&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=xlyy1&hide_border=true&theme=transparent&locale=zh_Hans" alt="GitHub Streak" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xlyy1&theme=github-compact&hide_border=true&area=true" width="96%" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/xlyy1/xlyy1/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/xlyy1/xlyy1/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/xlyy1/xlyy1/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-</div>
-
----
-
-## 💡 Current Direction
-
-<div align="center">
-
-```text
-                    ┌─────────────┐
-                    │     LLM     │
-                    └──────┬──────┘
-                           │
-                    ┌──────▼──────┐
-                    │  AI Agent   │
-                    └──────┬──────┘
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-    ┌─────▼─────┐    ┌─────▼─────┐   ┌────▼────┐
-    │ Data Agent│    │    RAG    │   │ Security│
-    └───────────┘    └───────────┘   └─────────┘
-```
-
-</div>
-
----
-
-## 🌐 Connect
-
-<div align="center">
-
-<a href="https://github.com/xlyy1">
-  <img src="https://img.shields.io/badge/GitHub-xlyy1-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<br />
-
-<div align="center">
-
-### Thanks for visiting! 👾
-
-**Build Agents · Explore Intelligence · Ship Things**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,45:6366F1,100:06B6D4&height=120&section=footer" width="100%" alt="Footer" />
-
-</div>
+通过 [GitHub](https://github.com/xlyy1) 查看我的项目或发起交流。
