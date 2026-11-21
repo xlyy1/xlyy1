@@ -47,7 +47,6 @@
 | [**Data Analysis Agent**](https://github.com/xlyy1/data-analysis-agent) | LangGraph · FastAPI · Vue 3 · ECharts · SQL | 对话式 AI 数据分析 Agent，通过自然语言自动完成 SQL 生成、数据查询、经营分析、异常诊断和可视化。 |
 | [**Sec-LLM-3.0（Fork）**](https://github.com/xlyy1/Sec-LLM-3.0) | Python · LLM · Agent · Security | 探索 LLM 与智能体在网络安全场景中的结合，关注自动化安全分析与 AI Security。 |
 | [**Tu Travel**](https://github.com/xlyy1/tu-travel) | Python · LLM · Tool Calling · SSE · WebSocket | 面向旅行场景的智能 Agent，整合天气、景点、美食等外部工具与多轮对话能力。 |
-| [**Cross-platform Content Generator**](https://github.com/xlyy1/cross-platform-content-generator) | Python · LLM · Prompt Engineering | 根据输入素材自动生成适配不同内容平台的文案，探索 AI 内容生产工作流。 |
 
 <div align="center">
 
@@ -61,10 +60,6 @@
 
 <a href="https://github.com/xlyy1/tu-travel">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=xlyy1&repo=tu-travel&hide_border=true&theme=transparent" alt="Tu Travel" />
-</a>
-
-<a href="https://github.com/xlyy1/cross-platform-content-generator">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=xlyy1&repo=cross-platform-content-generator&hide_border=true&theme=transparent" alt="Content Generator" />
 </a>
 
 </div>
@@ -131,7 +126,7 @@ SQL 生成
 ### 🤖 AI / Agent
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch" alt="AI Stack" />
+  <img src="https://skillicons.dev/icons?i=py" alt="AI Stack" />
 </p>
 
 `LangGraph` · `LLM` · `RAG` · `Tool Calling` · `Prompt Engineering` · `Multi-Agent`
